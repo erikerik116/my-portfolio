@@ -16,32 +16,32 @@
 <br/>
 
 <div align="center">
-	<a href="https://github.com/JayantGoel001/JayantGoel001.github.io">
+	<a href="https://github.com/ssakuraki/My-Portfolio">
 		<img src="src/screenshots/icon.png" alt="Logo" width="80" height="80"/>
 	</a>
-	<h3 align="center">Jayant Goel (JayantGoel001)'s Personal Portfolio</h3>
+	<h3 align="center">Jayant Goel (ssakuraki)'s Personal Portfolio</h3>
 	<p align="center">
 		This is the source code for my Personal Portfolio.
 		<br/>
-		<a href="https://github.com/JayantGoel001/JayantGoel001.github.io"><strong>Explore the docs »</strong></a>
+		<a href="https://github.com/ssakuraki/JayantGoel001.github.io"><strong>Explore the docs »</strong></a>
 		<br/>
 		<br/>
 		<a href="https://jayantgoel001.github.io/">View Demo</a>
 		·
-		<a href="https://github.com/JayantGoel001/JayantGoel001.github.io/issues/new?assignees=JayantGoel001&labels=bug&template=bug_report.yml&title=%5BBUG%5D%3A+">Report Bug</a>
+		<a href="https://github.com/ssakuraki/JayantGoel001.github.io/issues/new?assignees=ssakuraki&labels=bug&template=bug_report.yml&title=%5BBUG%5D%3A+">Report Bug</a>
 		·
-		<a href="https://github.com/JayantGoel001/JayantGoel001.github.io/issues/new?assignees=&labels=enhancement&template=feature_request.yml&title=%5BFEAT%5D%3A+">Request Feature</a>
+		<a href="https://github.com/ssakuraki/JayantGoel001.github.io/issues/new?assignees=&labels=enhancement&template=feature_request.yml&title=%5BFEAT%5D%3A+">Request Feature</a>
 	</p>
 	<p>
-		<img src="https://img.shields.io/github/contributors/JayantGoel001/JayantGoel001.github.io.svg?styles/default/yes.svg" alt="Contributors"/> • 
-		<img src="https://img.shields.io/github/forks/JayantGoel001/JayantGoel001.github.io.svg?styles/default/yes.svg" alt="Forks"/> • 
-		<img src="https://img.shields.io/github/stars/JayantGoel001/JayantGoel001.github.io.svg?styles/default/yes.svg" alt="Stars"/> •
-		<img src="https://img.shields.io/github/issues/JayantGoel001/JayantGoel001.github.io.svg?styles/default/yes.svg" alt="Issues"/> •
-		<img alt="Repo Size" src="https://img.shields.io/github/repo-size/JayantGoel001/JayantGoel001.github.io"/>
+		<img src="https://img.shields.io/github/contributors/ssakuraki/JayantGoel001.github.io.svg?styles/default/yes.svg" alt="Contributors"/> • 
+		<img src="https://img.shields.io/github/forks/ssakuraki/JayantGoel001.github.io.svg?styles/default/yes.svg" alt="Forks"/> • 
+		<img src="https://img.shields.io/github/stars/ssakuraki/JayantGoel001.github.io.svg?styles/default/yes.svg" alt="Stars"/> •
+		<img src="https://img.shields.io/github/issues/ssakuraki/JayantGoel001.github.io.svg?styles/default/yes.svg" alt="Issues"/> •
+		<img alt="Repo Size" src="https://img.shields.io/github/repo-size/ssakuraki/JayantGoel001.github.io"/>
 	</p>
 	<p>
-		<img alt="Github Deployment Status" src="https://github.com/JayantGoel001/JayantGoel001.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages&dummy=unused"/> •
-		<img src="https://github.com/JayantGoel001/JayantGoel001.github.io/actions/workflows/publish-docker.yml/badge.svg?dummy=unused" alt="Docker Image Status"/>
+		<img alt="Github Deployment Status" src="https://github.com/ssakuraki/JayantGoel001.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages&dummy=unused"/> •
+		<img src="https://github.com/ssakuraki/JayantGoel001.github.io/actions/workflows/publish-docker.yml/badge.svg?dummy=unused" alt="Docker Image Status"/>
 	</p>
 </div>
 
@@ -113,7 +113,6 @@
 
 ### Icon
 
-This is the Favicon of me in [JayantGoel001.github.io](https://JayantGoel001.github.io)
 
 <img alt="Me Icon" src="src/screenshots/icon.png" width="192"/>
 
@@ -133,10 +132,6 @@ Insert the following code in the `<head>` section of your pages to support favic
 <meta name="msapplication-TileImage" content="assets/images/mstile-310x150.png">
 <meta name="msapplication-TileImage" content="assets/images/mstile-310x310.png">
 ```
-
-Results :- [100%](https://realfavicongenerator.net/favicon_checker?protocol=https&site=jayantgoel001.github.io)
-
-These are the Font Awesome Icons used in [JayantGoel001.github.io](https://JayantGoel001.github.io)
 
 <img alt="Font Awesome Icon" src="src/screenshots/font-awesome-icon.png"/>
 
@@ -169,17 +164,17 @@ These are the Font Awesome Icons used in [JayantGoel001.github.io](https://Jayan
 - Clone the repository :
     - With HTTPS:
       ```bash
-      git clone https://github.com/JayantGoel001/JayantGoel001.github.io.git
+      git clone https://github.com/ssakuraki/ssakuraki.github.io.git
       ```
     - With SSH:
       ```bash
-      git@github.com:JayantGoel001/JayantGoel001.github.io.git
+      git@github.com:ssakuraki/ssakuraki.github.io.git
       ```
       
 - Navigate to working Directory and **main** branch
 
 	```bash
-	cd JayantGoel001.github.io
+	cd ssakuraki.github.io
 	git switch main
 	```
 
@@ -225,34 +220,6 @@ These are the Font Awesome Icons used in [JayantGoel001.github.io](https://Jayan
   git commit -m "<COMMIT-MESSAGE>"
   git push origin <NAME-OF-THE-BRANCH>
   ```
-
-**For Docker Users**
-
-Make sure you have [Docker](https://www.docker.com/products/docker-desktop/) installed.
-
-```bash
-docker --version
-```
-
-  - To pull the [GitHub Container Registry](https://github.com/JayantGoel001/JayantGoel001.github.io/pkgs/container/jayantgoel001.github.io) Image:
-    ```bash
-    docker pull ghcr.io/jayantgoel001/jayantgoel001.github.io:latest
-    ```
-  
-  - To pull the [Dockerhub](https://hub.docker.com/r/jayantgoel001/jayantgoel001.github.io) Image:
-    ```bash
-    docker pull jayantgoel001/jayantgoel001.github.io:latest
-    ```
-  
-  - To automatically pull and run the [GitHub Container Registry](https://github.com/JayantGoel001/JayantGoel001.github.io/pkgs/container/jayantgoel001.github.io) Image:
-    ```bash
-    docker run -d -p 4200:80 ghcr.io/jayantgoel001/jayantgoel001.github.io:latest
-    ```
-
-  - To automatically pull and run the [Dockerhub](https://hub.docker.com/r/jayantgoel001/jayantgoel001.github.io) Image:
-    ```bash
-    docker run -d -p 4200:80 jayantgoel001/jayantgoel001.github.io:latest
-    ```
 
     Open [http://localhost:4200/](http://localhost:4200/) to view it in the Default Browser.
 
@@ -558,22 +525,10 @@ PageSpeed Insights (PSI) reports on the performance of a page on both mobile and
 
 ## Creator / Maintainer :man_technologist:
 
-👤 Jayant Goel ([JayantGoel001](https://github.com/JayantGoel001))
+👤 ssakuraki ([ssakuraki](https://github.com/ssakuraki))
 
 If you have any questions, comments, or concerns, feel free to contact me below.
-
-<p align="left">
-	<a href="https://www.linkedin.com/in/JayantGoel001"> 
-    	<img alt="Connect via LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  	</a>
-	<a href="mailto:jgoel92@gmail.com"> 
-		<img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
-	</a>
-	<a href="https://www.twitter.com/JayantGoel001"> 
-    	<img alt="Connect via Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
-  	</a>
-</p>
-
+Telegram : @shinyy0103
 This project was created for educational purposes and for personal use. Feel free to take inspiration.
 
 If you like my content or find this code useful, give it a ⭐.
@@ -583,7 +538,7 @@ If you like my content or find this code useful, give it a ⭐.
 
 Contributions, Issues and Feature requests are Welcome!
 
-Feel free to check the [Issues page](https://github.com/JayantGoel001/JayantGoel001.github.io/issues/).
+Feel free to check the [Issues page](https://github.com/ssakuraki/ssakuraki.github.io/issues/).
 
 
 ## Contributors ✨
@@ -600,10 +555,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://JayantGoel001.github.io"><img src="https://avatars.githubusercontent.com/u/54479676?v=4?s=100" width="100px;" alt="Jayant Goel"/><br /><sub><b>Jayant Goel</b></sub></a><br /><a href="https://github.com/JayantGoel001/JayantGoel001.github.io/commits?author=JayantGoel001" title="Code">💻</a> <a href="#ideas-JayantGoel001" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/JayantGoel001/JayantGoel001.github.io/commits?author=JayantGoel001" title="Tests">⚠️</a> <a href="#maintenance-JayantGoel001" title="Maintenance">🚧</a> <a href="https://github.com/JayantGoel001/JayantGoel001.github.io/commits?author=JayantGoel001" title="Documentation">📖</a> <a href="#design-JayantGoel001" title="Design">🎨</a> <a href="https://github.com/JayantGoel001/JayantGoel001.github.io/pulls?q=is%3Apr+reviewed-by%3AJayantGoel001" title="Reviewed Pull Requests">👀</a> <a href="#content-JayantGoel001" title="Content">🖋</a> <a href="#a11y-JayantGoel001" title="Accessibility">️️️️♿️</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/anchal-p-908643b6/"><img src="https://avatars.githubusercontent.com/u/73632448?v=4?s=100" width="100px;" alt="Anchal Pandey"/><br /><sub><b>Anchal Pandey</b></sub></a><br /><a href="https://github.com/JayantGoel001/JayantGoel001.github.io/issues?q=author%3Acode1511" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://emmadawson.dev"><img src="https://avatars.githubusercontent.com/u/57045550?v=4?s=100" width="100px;" alt="Emma Dawson"/><br /><sub><b>Emma Dawson</b></sub></a><br /><a href="https://github.com/JayantGoel001/JayantGoel001.github.io/issues?q=author%3Aemmalearnscode" title="Bug reports">🐛</a> <a href="#ideas-emmalearnscode" title="Ideas, Planning, & Feedback">🤔</a> <a href="#a11y-emmalearnscode" title="Accessibility">️️️️♿️</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/NarpatAanjana"><img src="https://avatars.githubusercontent.com/u/86047565?v=4?s=100" width="100px;" alt="Narpat Aanjana"/><br /><sub><b>Narpat Aanjana</b></sub></a><br /><a href="https://github.com/JayantGoel001/JayantGoel001.github.io/issues?q=author%3ANarpatAanjana" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://JayantGoel001.github.io"><img src="https://avatars.githubusercontent.com/u/54479676?v=4?s=100" width="100px;" alt="Jayant Goel"/><br /><sub><b>Jayant Goel</b></sub></a><br /><a href="https://github.com/ssakuraki/JayantGoel001.github.io/commits?author=ssakuraki" title="Code">💻</a> <a href="#ideas-JayantGoel001" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/ssakuraki/JayantGoel001.github.io/commits?author=ssakuraki" title="Tests">⚠️</a> <a href="#maintenance-JayantGoel001" title="Maintenance">🚧</a> <a href="https://github.com/ssakuraki/JayantGoel001.github.io/commits?author=ssakuraki" title="Documentation">📖</a> <a href="#design-JayantGoel001" title="Design">🎨</a> <a href="https://github.com/ssakuraki/JayantGoel001.github.io/pulls?q=is%3Apr+reviewed-by%3AJayantGoel001" title="Reviewed Pull Requests">👀</a> <a href="#content-JayantGoel001" title="Content">🖋</a> <a href="#a11y-JayantGoel001" title="Accessibility">️️️️♿️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/anchal-p-908643b6/"><img src="https://avatars.githubusercontent.com/u/73632448?v=4?s=100" width="100px;" alt="Anchal Pandey"/><br /><sub><b>Anchal Pandey</b></sub></a><br /><a href="https://github.com/ssakuraki/JayantGoel001.github.io/issues?q=author%3Acode1511" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://emmadawson.dev"><img src="https://avatars.githubusercontent.com/u/57045550?v=4?s=100" width="100px;" alt="Emma Dawson"/><br /><sub><b>Emma Dawson</b></sub></a><br /><a href="https://github.com/ssakuraki/JayantGoel001.github.io/issues?q=author%3Aemmalearnscode" title="Bug reports">🐛</a> <a href="#ideas-emmalearnscode" title="Ideas, Planning, & Feedback">🤔</a> <a href="#a11y-emmalearnscode" title="Accessibility">️️️️♿️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/NarpatAanjana"><img src="https://avatars.githubusercontent.com/u/86047565?v=4?s=100" width="100px;" alt="Narpat Aanjana"/><br /><sub><b>Narpat Aanjana</b></sub></a><br /><a href="https://github.com/ssakuraki/JayantGoel001.github.io/issues?q=author%3ANarpatAanjana" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
 </table>
