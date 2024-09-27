@@ -1,5 +1,4 @@
-<h1 align="center"> 
-	<a href="https://JayantGoel001.github.io/">JayantGoel001.github.io</a> - v2.0
+<h1 align="center">
 	<p align="center">
 		<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
 		<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=white"/>
@@ -14,62 +13,6 @@
 </h1>
 
 <br/>
-
-<div align="center">
-	<a href="https://github.com/ssakuraki/My-Portfolio">
-		<img src="src/screenshots/icon.png" alt="Logo" width="80" height="80"/>
-	</a>
-	<h3 align="center">Jayant Goel (ssakuraki)'s Personal Portfolio</h3>
-	<p align="center">
-		This is the source code for my Personal Portfolio.
-		<br/>
-		<a href="https://github.com/ssakuraki/JayantGoel001.github.io"><strong>Explore the docs »</strong></a>
-		<br/>
-		<br/>
-		<a href="https://jayantgoel001.github.io/">View Demo</a>
-		·
-		<a href="https://github.com/ssakuraki/JayantGoel001.github.io/issues/new?assignees=ssakuraki&labels=bug&template=bug_report.yml&title=%5BBUG%5D%3A+">Report Bug</a>
-		·
-		<a href="https://github.com/ssakuraki/JayantGoel001.github.io/issues/new?assignees=&labels=enhancement&template=feature_request.yml&title=%5BFEAT%5D%3A+">Request Feature</a>
-	</p>
-	<p>
-		<img src="https://img.shields.io/github/contributors/ssakuraki/JayantGoel001.github.io.svg?styles/default/yes.svg" alt="Contributors"/> • 
-		<img src="https://img.shields.io/github/forks/ssakuraki/JayantGoel001.github.io.svg?styles/default/yes.svg" alt="Forks"/> • 
-		<img src="https://img.shields.io/github/stars/ssakuraki/JayantGoel001.github.io.svg?styles/default/yes.svg" alt="Stars"/> •
-		<img src="https://img.shields.io/github/issues/ssakuraki/JayantGoel001.github.io.svg?styles/default/yes.svg" alt="Issues"/> •
-		<img alt="Repo Size" src="https://img.shields.io/github/repo-size/ssakuraki/JayantGoel001.github.io"/>
-	</p>
-	<p>
-		<img alt="Github Deployment Status" src="https://github.com/ssakuraki/JayantGoel001.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages&dummy=unused"/> •
-		<img src="https://github.com/ssakuraki/JayantGoel001.github.io/actions/workflows/publish-docker.yml/badge.svg?dummy=unused" alt="Docker Image Status"/>
-	</p>
-</div>
-
-<br/>
-
-<p align="center">
-  <a href="https://JayantGoel001.github.io/">
-    <img src="src/screenshots/screenshot.gif" alt="landing page"/>
-  </a>
-</p>
-
-
-## Table of Contents :scroll:
-
-- [Design](#design-art)
-    - [Fonts](#fonts)
-    - [Color Scheme](#color-scheme)
-    - [Icon](#icon)
-- [Built With](#built-with-package)
-- [How to Run Locally?](#how-to-run-locally-dart)
-- [Sections](#sections-bookmark)
-- [Folder Structure](#folder-structure-open_file_folder)
-- [Search engine optimization(SEO)](#search-engine-optimizationseo-spider)
-- [PageSpeed Insights](#pagespeed-insights)
-- [Creator / Maintainer](#creator--maintainer-man_technologist)
-- [Contributing](#-contributing)
-- [Contributors](#contributors-)
-- [License](#-license)
 
 
 ## Design :art:
