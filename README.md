@@ -19,7 +19,7 @@
 	<a href="https://github.com/JayantGoel001/JayantGoel001.github.io">
 		<img src="src/screenshots/icon.png" alt="Logo" width="80" height="80"/>
 	</a>
-	<h3 align="center">Jayant Goel (JayantGoel001)'s Personal Portfolio</h3>
+	<h3 align="center">Levente Yamada (JayantGoel001)'s Personal Portfolio</h3>
 	<p align="center">
 		This is the source code for my Personal Portfolio.
 		<br/>
@@ -558,7 +558,7 @@ PageSpeed Insights (PSI) reports on the performance of a page on both mobile and
 
 ## Creator / Maintainer :man_technologist:
 
-👤 Jayant Goel ([JayantGoel001](https://github.com/JayantGoel001))
+👤 Levente Yamada ([JayantGoel001](https://github.com/JayantGoel001))
 
 If you have any questions, comments, or concerns, feel free to contact me below.
 
@@ -600,7 +600,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://JayantGoel001.github.io"><img src="https://avatars.githubusercontent.com/u/54479676?v=4?s=100" width="100px;" alt="Jayant Goel"/><br /><sub><b>Jayant Goel</b></sub></a><br /><a href="https://github.com/JayantGoel001/JayantGoel001.github.io/commits?author=JayantGoel001" title="Code">💻</a> <a href="#ideas-JayantGoel001" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/JayantGoel001/JayantGoel001.github.io/commits?author=JayantGoel001" title="Tests">⚠️</a> <a href="#maintenance-JayantGoel001" title="Maintenance">🚧</a> <a href="https://github.com/JayantGoel001/JayantGoel001.github.io/commits?author=JayantGoel001" title="Documentation">📖</a> <a href="#design-JayantGoel001" title="Design">🎨</a> <a href="https://github.com/JayantGoel001/JayantGoel001.github.io/pulls?q=is%3Apr+reviewed-by%3AJayantGoel001" title="Reviewed Pull Requests">👀</a> <a href="#content-JayantGoel001" title="Content">🖋</a> <a href="#a11y-JayantGoel001" title="Accessibility">️️️️♿️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://JayantGoel001.github.io"><img src="https://avatars.githubusercontent.com/u/54479676?v=4?s=100" width="100px;" alt="Levente Yamada"/><br /><sub><b>Levente Yamada</b></sub></a><br /><a href="https://github.com/JayantGoel001/JayantGoel001.github.io/commits?author=JayantGoel001" title="Code">💻</a> <a href="#ideas-JayantGoel001" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/JayantGoel001/JayantGoel001.github.io/commits?author=JayantGoel001" title="Tests">⚠️</a> <a href="#maintenance-JayantGoel001" title="Maintenance">🚧</a> <a href="https://github.com/JayantGoel001/JayantGoel001.github.io/commits?author=JayantGoel001" title="Documentation">📖</a> <a href="#design-JayantGoel001" title="Design">🎨</a> <a href="https://github.com/JayantGoel001/JayantGoel001.github.io/pulls?q=is%3Apr+reviewed-by%3AJayantGoel001" title="Reviewed Pull Requests">👀</a> <a href="#content-JayantGoel001" title="Content">🖋</a> <a href="#a11y-JayantGoel001" title="Accessibility">️️️️♿️</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/anchal-p-908643b6/"><img src="https://avatars.githubusercontent.com/u/73632448?v=4?s=100" width="100px;" alt="Anchal Pandey"/><br /><sub><b>Anchal Pandey</b></sub></a><br /><a href="https://github.com/JayantGoel001/JayantGoel001.github.io/issues?q=author%3Acode1511" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://emmadawson.dev"><img src="https://avatars.githubusercontent.com/u/57045550?v=4?s=100" width="100px;" alt="Emma Dawson"/><br /><sub><b>Emma Dawson</b></sub></a><br /><a href="https://github.com/JayantGoel001/JayantGoel001.github.io/issues?q=author%3Aemmalearnscode" title="Bug reports">🐛</a> <a href="#ideas-emmalearnscode" title="Ideas, Planning, & Feedback">🤔</a> <a href="#a11y-emmalearnscode" title="Accessibility">️️️️♿️</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/NarpatAanjana"><img src="https://avatars.githubusercontent.com/u/86047565?v=4?s=100" width="100px;" alt="Narpat Aanjana"/><br /><sub><b>Narpat Aanjana</b></sub></a><br /><a href="https://github.com/JayantGoel001/JayantGoel001.github.io/issues?q=author%3ANarpatAanjana" title="Bug reports">🐛</a></td>
@@ -619,4 +619,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ## 📝 License
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.<br/>
-Copyright &copy; 2021 Jayant Goel. All rights reserved. 
+Copyright &copy; 2021 Levente Yamada. All rights reserved. 
