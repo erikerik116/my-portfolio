@@ -1,5 +1,4 @@
-<h1 align="center"> 
-	<a href="https://JayantGoel001.github.io/">JayantGoel001.github.io</a> - v2.0
+<h1 align="center">
 	<p align="center">
 		<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
 		<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=white"/>
@@ -15,6 +14,7 @@
 
 <br/>
 
+<<<<<<< HEAD
 <div align="center">
 	<a href="https://github.com/JayantGoel001/JayantGoel001.github.io">
 		<img src="src/screenshots/icon.png" alt="Logo" width="80" height="80"/>
@@ -71,6 +71,8 @@
 - [Contributors](#contributors-)
 - [License](#-license)
 
+=======
+>>>>>>> 851b1cb02e1f8471c4a9e352aff49c0b641a43ac
 
 ## Design :art:
 
@@ -113,7 +115,6 @@
 
 ### Icon
 
-This is the Favicon of me in [JayantGoel001.github.io](https://JayantGoel001.github.io)
 
 <img alt="Me Icon" src="src/screenshots/icon.png" width="192"/>
 
@@ -134,10 +135,6 @@ Insert the following code in the `<head>` section of your pages to support favic
 <meta name="msapplication-TileImage" content="assets/images/mstile-310x310.png">
 ```
 
-Results :- [100%](https://realfavicongenerator.net/favicon_checker?protocol=https&site=jayantgoel001.github.io)
-
-These are the Font Awesome Icons used in [JayantGoel001.github.io](https://JayantGoel001.github.io)
-
 <img alt="Font Awesome Icon" src="src/screenshots/font-awesome-icon.png"/>
 
 
@@ -155,6 +152,7 @@ These are the Font Awesome Icons used in [JayantGoel001.github.io](https://Jayan
 - 💜 [GitHub Pages](https://pages.github.com/) for hosting
 - 💙 [Apify](https://apify.com/) for generating screenshot of website
 - 💜 [SmartMockups](https://smartmockups.com/) for adding mockups/desktop background to screenshot
+<<<<<<< HEAD
 
 
 ## How to run locally? :dart:
@@ -620,3 +618,5 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.<br/>
 Copyright &copy; 2021 Levente Yamada. All rights reserved. 
+=======
+>>>>>>> 851b1cb02e1f8471c4a9e352aff49c0b641a43ac
