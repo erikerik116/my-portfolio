@@ -1,5 +1,5 @@
-import {AfterViewInit, Component, OnInit} from '@angular/core';
-import {SwUpdate} from "@angular/service-worker";
+import { AfterViewInit, Component, OnInit } from '@angular/core';
+import { SwUpdate } from "@angular/service-worker";
 
 @Component({
 	selector: 'app-root',
@@ -7,15 +7,15 @@ import {SwUpdate} from "@angular/service-worker";
 	styleUrls: ['./app.component.css']
 })
 
-export class AppComponent implements AfterViewInit,OnInit {
-	title = 'Levente Yamada (JayantGoel001)\'s Personal Portfolio';
+export class AppComponent implements AfterViewInit, OnInit {
+	title = 'Tom Phillips (JayantGoel001)\'s Personal Portfolio';
 
-	constructor(private swUpdate : SwUpdate) {}
-	ngOnInit(){
+	constructor(private swUpdate: SwUpdate) { }
+	ngOnInit() {
 		if (this.swUpdate.isEnabled) {
 			this.swUpdate.versionUpdates.subscribe((event) => {
-				if(event.type === "VERSION_READY"){
-					if(confirm("New update available. Load New Version?")) {
+				if (event.type === "VERSION_READY") {
+					if (confirm("New update available. Load New Version?")) {
 						this.swUpdate.activateUpdate().then(() => {
 							window.location.reload();
 						});
@@ -32,18 +32,18 @@ export class AppComponent implements AfterViewInit,OnInit {
 		console.log("%chttps://github.com/JayantGoel001/JayantGoel001.github.io", "font-size:17px");
 	}
 
-	ngAfterViewInit() : void {
+	ngAfterViewInit(): void {
 		let loader = document.getElementById('loader')!!;
 		let splash = document.getElementById('splash')!!;
 		let rightSection = document.getElementById('section-right')!!;
 		let leftSection = document.getElementById('section-left')!!;
-		setTimeout(()=>{
+		setTimeout(() => {
 			splash.remove();
 			rightSection.style.transform = "translateX(100%)";
 			leftSection.style.transform = "translateX(-100%)";
-			setTimeout(()=>{
+			setTimeout(() => {
 				loader.remove();
-			},800);
-		},1000);
+			}, 800);
+		}, 1000);
 	}
 }
